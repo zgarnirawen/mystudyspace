@@ -101,9 +101,4 @@ npm run dev
 
 Visit: [http://localhost:3000](http://localhost:3000)
 
----
 
-
-
-Ready to continue with the dashboard or CRUD part next?
-```
